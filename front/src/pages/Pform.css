@@ -1,0 +1,7 @@
+.inputsection{
+    display: flex;
+    flex-direction: column;
+    width:10%;
+    gap:10px;
+    margin: 10px;
+}
